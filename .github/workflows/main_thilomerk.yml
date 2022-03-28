@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'ThiloMerk'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F163E69769C34F5BB2ADF54E0142ADC4 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0FCC34C338764B6E8814E2FDAD8C8E81 }}
